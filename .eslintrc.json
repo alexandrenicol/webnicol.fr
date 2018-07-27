@@ -3,6 +3,7 @@
     "rules": {
         "react/prefer-stateless-function":"off",
         "react/jsx-one-expression-per-line":"off",
-        "react/jsx-filename-extension":"off"
+        "react/jsx-filename-extension":"off",
+        "react/no-unescaped-entities":"off"
     }
 }
