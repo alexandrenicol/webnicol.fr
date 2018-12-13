@@ -30,6 +30,8 @@ const me = {
     'Dites bonjour aux bots ! - 2016 (French)',
   ],
   talks: [
+    'How To Innovate Like A Startup When You Are A Multinational - Brighton Devops, Test, Dev Meetup - 2018',
+    'The Voice Technology Revolution - Technova\'s live webinar - 2018',
     'VUI Introduction - Brest.js (Brest, Fr) - 2018',
     'Chatbots 101 - Brighton Web Dev Meetup - 2018',
     'Get The Energy Talking - London Alexa Devs Meetup - 2017',
@@ -38,7 +40,6 @@ const me = {
   stuff: [
     'Parachute (soon)',
     'Go AWS Lambda Router (soon)',
-    'World Cup Schedule playground (soon)',
     'JavaScript AWS Lambda Router',
     'Brighton & Hove buses live times on Alexa Skill',
     '2018 Resolutions on Google actions',

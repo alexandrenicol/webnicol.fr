@@ -65,7 +65,7 @@ class App extends Component {
             - EDF Energy - 2018'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="hhttps://www.heartinternet.uk/blog/beginners-guide-chatbots-conversational-interfaces/" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.heartinternet.uk/blog/beginners-guide-chatbots-conversational-interfaces/" target="_blank">
               A Beginner\'s Guide to Chatbots and Conversational Interfaces
             </a>{' '}
             - Heart Internet - 2017 - Published by{' '}
@@ -82,6 +82,18 @@ class App extends Component {
           <span className="n">&nbsp; </span> {']'},<br />
           <span className="n">&nbsp; talks:</span> {'['}
           <br />
+          <span className="l">
+            &nbsp; &nbsp; '<a href="https://digitalinnovation.webnicol.fr" target="_blank">
+              How To Innovate Like A Startup When You Are A Multinational
+            </a>{' '}
+            - Brighton Devops, Test, Dev Meetup - 2018'
+          </span>,<br />
+          <span className="l">
+            &nbsp; &nbsp; '<a href="https://marketforce.wavecast.io/technova/readying-the-voice-technology-revolution" target="_blank">
+              The Voice Technology Revolution
+            </a>{' '}
+            - Technova\'s live webinar - 2018'
+          </span>,<br />
           <span className="l">
             &nbsp; &nbsp; '<a href="https://voice2018.webnicol.fr" target="_blank">
               VUI Introduction
@@ -111,11 +123,6 @@ class App extends Component {
           <br />
           <span className="l">&nbsp; &nbsp; 'Parachute (soon)'</span>,<br />
           <span className="l">&nbsp; &nbsp; 'Go AWS Lambda Router (soon)</span>,<br />
-          <span className="l">
-            &nbsp; &nbsp; '<a href="https://github.com/alexandrenicol/world-cup-playground" target="_blank">
-              World Cup Schedule playground (soon)
-            </a>'
-          </span>,<br />
           <span className="l">
             &nbsp; &nbsp; '<a href="https://alexandrenicol.github.io/aws-lambda-router-wn/" target="_blank">
               JavaScript AWS Lambda Router
