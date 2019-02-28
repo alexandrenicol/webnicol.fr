@@ -83,6 +83,15 @@ class App extends Component {
           <span className="n">&nbsp; talks:</span> {'['}
           <br />
           <span className="l">
+            &nbsp; &nbsp; '[upcoming - 2019.03.14] TechNova: Voice - 2019'
+          </span>,<br />
+          <span className="l">
+            &nbsp; &nbsp; '<a href="https://www.slideshare.net/AlexandreNicol1/devfest-2019-retour-sur-3-annes-developper-des-bots" target="_blank">
+              Retour sur 3 années à developper des bots !
+            </a>{' '}
+            - DevFest du bout du monde (Brest, Fr) - 2019'
+          </span>,<br />
+          <span className="l">
             &nbsp; &nbsp; '<a href="https://digitalinnovation.webnicol.fr" target="_blank">
               How To Innovate Like A Startup When You Are A Multinational
             </a>{' '}
@@ -92,7 +101,7 @@ class App extends Component {
             &nbsp; &nbsp; '<a href="https://marketforce.wavecast.io/technova/readying-the-voice-technology-revolution" target="_blank">
               The Voice Technology Revolution
             </a>{' '}
-            - Technova\'s live webinar - 2018'
+            - Technova's live webinar - 2018'
           </span>,<br />
           <span className="l">
             &nbsp; &nbsp; '<a href="https://voice2018.webnicol.fr" target="_blank">
