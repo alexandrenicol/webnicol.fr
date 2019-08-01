@@ -18,17 +18,17 @@ class App extends Component {
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; title:</span> <span className="l">'Full Stack Developer | Conversational Systems Specialist'</span>,<br />
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; at:</span> <span className="l">'Bounce Technologies Limited'</span>,<br />
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; since:</span> <span className="mi">1560848400</span>,<br />
-          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'},'},<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'}'},<br />
           <span className="n">&nbsp; &nbsp; &nbsp; </span> {'{'}<br />
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; title:</span> <span className="l">'Director'</span>,<br />
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; at:</span> <span className="l">'Alex Nicol LTD'</span>,<br />
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; since:</span> <span className="mi">1543795200</span>,<br />
-          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'},'},<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'}'},<br />
           <span className="n">&nbsp; &nbsp; &nbsp; </span> {'{'}<br />
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; title:</span> <span className="l">'R&amp;D Digital Developer'</span>,<br />
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; at:</span> <span className="l">'EDF Energy R&amp;D UK Centre'</span>,<br />
           <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; since:</span> <span className="mi">1433116800</span>,<br />
-          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'},'},<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'}'},<br />
           <span className="n">&nbsp; &nbsp; </span> {']'},<br />
           <span className="n">&nbsp; &nbsp; previous:</span>{' '}
           <span className="l">
