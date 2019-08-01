@@ -11,13 +11,25 @@ const me = {
   name: 'Alex Nicol',
   location: 'Brighton, UK',
   from: 'Brest, France',
-  skills: ['Web', 'Mobile', 'Voice', 'Chatbot'],
+  skills: ['Web', 'Mobile', 'Voice', 'Chatbot', 'Certified AWS Alexa Builder'],
   job: {
-    current: {
-      title: 'R&D Digital Developer',
-      at: 'EDF Energy R&D UK Centre',
-      since: 1433116800,
-    },
+    current: [
+      {
+        title: 'Full Stack Developer | Conversational Systems Specialist',
+        at: 'Bounce Technologies Limited',
+        since: 1560848400,
+      },
+      {
+        title: 'Director',
+        at: 'Alex Nicol LTD',
+        since: 1543795200,
+      },
+      {
+        title: 'R&D Digital Developer',
+        at: 'EDF Energy R&D UK Centre',
+        since: 1433116800,
+      },
+    ],
     previous: 'there',
   },
   contact: 'alex@webnicol.fr',
@@ -38,6 +50,7 @@ const me = {
     'The Rise of The Bots - Async (Brighton) - 2017',
   ],
   stuff: [
+    'Le Marchand De Glace',
     'Parachute (soon)',
     'Go AWS Lambda Router (soon)',
     'JavaScript AWS Lambda Router',

@@ -10,15 +10,26 @@ class App extends Component {
           <span className="n">&nbsp; name:</span> <span className="l">'Alex Nicol'</span>,<br />
           <span className="n">&nbsp; location:</span> <span className="l">'Brighton, UK'</span>,<br />
           <span className="n">&nbsp; from:</span> <span className="l">'Brest, FR'</span>,<br />
-          <span className="n">&nbsp; skills:</span> [<span className="l">'Web'</span>, <span className="l">'Mobile'</span>, <span className="l">'Voice'</span>, <span className="l">'Chatbot'</span>],<br />
+          <span className="n">&nbsp; skills:</span> [<span className="l">'Web'</span>, <span className="l">'Mobile'</span>, <span className="l">'Voice'</span>, <span className="l">'Chatbot'</span>, <span className="l">'Certified AWS Alexa Builder'</span>],<br />
           <span className="n">&nbsp; jobs:</span> {'{'}
           <br />
-          <span className="n">&nbsp; &nbsp; current:</span> {'{'}
-          <br />
-          <span className="n">&nbsp; &nbsp; &nbsp; title:</span> <span className="l">'R&amp;D Digital Developer'</span>,<br />
-          <span className="n">&nbsp; &nbsp; &nbsp; at:</span> <span className="l">'EDF Energy R&amp;D UK Centre'</span>,<br />
-          <span className="n">&nbsp; &nbsp; &nbsp; since:</span> <span className="mi">1433116800</span>,<br />
-          <span className="n">&nbsp; &nbsp; </span> {'}'},<br />
+          <span className="n">&nbsp; &nbsp; current:</span> {'['}<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'{'}<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; title:</span> <span className="l">'Full Stack Developer | Conversational Systems Specialist'</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; at:</span> <span className="l">'Bounce Technologies Limited'</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; since:</span> <span className="mi">1560848400</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'},'},<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'{'}<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; title:</span> <span className="l">'Director'</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; at:</span> <span className="l">'Alex Nicol LTD'</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; since:</span> <span className="mi">1543795200</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'},'},<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'{'}<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; title:</span> <span className="l">'R&amp;D Digital Developer'</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; at:</span> <span className="l">'EDF Energy R&amp;D UK Centre'</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; &nbsp; since:</span> <span className="mi">1433116800</span>,<br />
+          <span className="n">&nbsp; &nbsp; &nbsp; </span> {'},'},<br />
+          <span className="n">&nbsp; &nbsp; </span> {']'},<br />
           <span className="n">&nbsp; &nbsp; previous:</span>{' '}
           <span className="l">
             '<a href="https://linkedin.com/in/alexnicol" target="_blank">
@@ -83,16 +94,16 @@ class App extends Component {
           <span className="n">&nbsp; talks:</span> {'['}
           <br />
           <span className="l">
-            &nbsp; &nbsp; '[upcoming - 2019.03.14] TechNova: Voice - 2019'
+            &nbsp; &nbsp; 'TechNova: Voice - 2019'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://www.slideshare.net/AlexandreNicol1/devfest-2019-retour-sur-3-annes-developper-des-bots" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.youtube.com/watch?v=vcVttSm3e8k" target="_blank">
               Retour sur 3 années à developper des bots !
             </a>{' '}
             - DevFest du bout du monde (Brest, Fr) - 2019'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://digitalinnovation.webnicol.fr" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.youtube.com/watch?v=CAFny-2QXbA" target="_blank">
               How To Innovate Like A Startup When You Are A Multinational
             </a>{' '}
             - Brighton Devops, Test, Dev Meetup - 2018'
@@ -130,6 +141,11 @@ class App extends Component {
           <span className="n">&nbsp; </span> {']'},<br />
           <span className="n">&nbsp; stuff:</span> {'['}
           <br />
+          <span className="l">
+            &nbsp; &nbsp; '<a href="https://github.com/alexandrenicol/lemarchanddeglace" target="_blank">
+              Le Marchand De Glace
+            </a>'
+          </span>,<br />
           <span className="l">&nbsp; &nbsp; 'Parachute (soon)'</span>,<br />
           <span className="l">&nbsp; &nbsp; 'Go AWS Lambda Router (soon)</span>,<br />
           <span className="l">
