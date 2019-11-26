@@ -64,6 +64,12 @@ class App extends Component {
           <span className="n">&nbsp; articles:</span> {'['}
           <br />
           <span className="l">
+            &nbsp; &nbsp; '<a href="https://medium.com/@nicol_alexandre/is-there-any-good-in-tech-24e92102128c" target="_blank">
+              Is there any good in Tech?
+            </a>{' '}
+            - 2019'
+          </span>,<br />
+          <span className="l">
             &nbsp; &nbsp; '<a href="https://www.edfenergy.com/about/energy-innovation/innovation-blog/research-development-chatbots-lessons-learned" target="_blank">
               Chatbots: 3 years on, what have we learnt?
             </a>{' '}
@@ -94,23 +100,29 @@ class App extends Component {
           <span className="n">&nbsp; talks:</span> {'['}
           <br />
           <span className="l">
+            &nbsp; &nbsp; '<a href="https://bwdm2019.webnicol.fr/" target="_blank">
+            Building Apps for Alexa
+            </a>{' '}
+            - Brighton Web Dev Meetup - 2019'
+          </span>,<br />
+          <span className="l">
             &nbsp; &nbsp; 'TechNova: Voice - 2019'
           </span>,<br />
           <span className="l">
             &nbsp; &nbsp; '<a href="https://www.youtube.com/watch?v=vcVttSm3e8k" target="_blank">
-              Retour sur 3 années à developper des bots !
+              Retour sur 3 années à developper des bots ! (video)
             </a>{' '}
             - DevFest du bout du monde (Brest, Fr) - 2019'
           </span>,<br />
           <span className="l">
             &nbsp; &nbsp; '<a href="https://www.youtube.com/watch?v=CAFny-2QXbA" target="_blank">
-              How To Innovate Like A Startup When You Are A Multinational
+              How To Innovate Like A Startup When You Are A Multinational (video)
             </a>{' '}
             - Brighton Devops, Test, Dev Meetup - 2018'
           </span>,<br />
           <span className="l">
             &nbsp; &nbsp; '<a href="https://marketforce.wavecast.io/technova/readying-the-voice-technology-revolution" target="_blank">
-              The Voice Technology Revolution
+              The Voice Technology Revolution (video)
             </a>{' '}
             - Technova's live webinar - 2018'
           </span>,<br />
