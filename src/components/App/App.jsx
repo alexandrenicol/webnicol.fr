@@ -32,7 +32,7 @@ class App extends Component {
           <span className="n">&nbsp; &nbsp; </span> {']'},<br />
           <span className="n">&nbsp; &nbsp; previous:</span>{' '}
           <span className="l">
-            '<a href="https://linkedin.com/in/alexnicol" target="_blank">
+            '<a href="https://linkedin.com/in/alexnicol" target="_blank" rel="noopener noreferrer">
               there
             </a>'
           </span>
@@ -47,7 +47,7 @@ class App extends Component {
           <br />
           <span className="n">&nbsp; github:</span>
           <span className="l">
-            '<a href="https://github.com/alexandrenicol" target="_blank">
+            '<a href="https://github.com/alexandrenicol" target="_blank" rel="noopener noreferrer">
               alexandrenicol
             </a>'
           </span>
@@ -55,7 +55,7 @@ class App extends Component {
           <br />
           <span className="n">&nbsp; twitter:</span>
           <span className="l">
-            '<a href="https://twitter.com/nicol_alexandre" target="_blank">
+            '<a href="https://twitter.com/nicol_alexandre" target="_blank" rel="noopener noreferrer">
               @nicol_alexandre
             </a>'
           </span>
@@ -64,34 +64,34 @@ class App extends Component {
           <span className="n">&nbsp; articles:</span> {'['}
           <br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://medium.com/@nicol_alexandre/is-there-any-good-in-tech-24e92102128c" target="_blank">
+            &nbsp; &nbsp; '<a href="https://medium.com/@nicol_alexandre/is-there-any-good-in-tech-24e92102128c" target="_blank" rel="noopener noreferrer">
               Is there any good in Tech?
             </a>{' '}
             - 2019'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://www.edfenergy.com/about/energy-innovation/innovation-blog/research-development-chatbots-lessons-learned" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.edfenergy.com/about/energy-innovation/innovation-blog/research-development-chatbots-lessons-learned" target="_blank" rel="noopener noreferrer">
               Chatbots: 3 years on, what have we learnt?
             </a>{' '}
             - EDF Energy - 2018'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://www.edfenergy.com/about/energy-innovation/innovation-blog/research-development-chatbots" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.edfenergy.com/about/energy-innovation/innovation-blog/research-development-chatbots" target="_blank" rel="noopener noreferrer">
               Bringing chatbots to our business
             </a>{' '}
             - EDF Energy - 2018'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://www.heartinternet.uk/blog/beginners-guide-chatbots-conversational-interfaces/" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.heartinternet.uk/blog/beginners-guide-chatbots-conversational-interfaces/" target="_blank" rel="noopener noreferrer">
               A Beginner\'s Guide to Chatbots and Conversational Interfaces
             </a>{' '}
             - Heart Internet - 2017 - Published by{' '}
-            <a href="https://twitter.com/oliverlindberg" target="_blank">
+            <a href="https://twitter.com/oliverlindberg" target="_blank" rel="noopener noreferrer">
               @oliverlindberg
             </a>'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://medium.com/@nicol_alexandre/dites-bonjour-aux-bots-f6afd4b68e2d" target="_blank">
+            &nbsp; &nbsp; '<a href="https://medium.com/@nicol_alexandre/dites-bonjour-aux-bots-f6afd4b68e2d" target="_blank" rel="noopener noreferrer">
               Dites bonjour aux bots !
             </a>{' '}
             - 2016 (French)'
@@ -100,7 +100,7 @@ class App extends Component {
           <span className="n">&nbsp; talks:</span> {'['}
           <br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://bwdm2019.webnicol.fr/" target="_blank">
+            &nbsp; &nbsp; '<a href="https://bwdm2019.webnicol.fr/" target="_blank" rel="noopener noreferrer">
             Building Apps for Alexa
             </a>{' '}
             - Brighton Web Dev Meetup - 2019'
@@ -109,43 +109,43 @@ class App extends Component {
             &nbsp; &nbsp; 'TechNova: Voice - 2019'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://www.youtube.com/watch?v=vcVttSm3e8k" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.youtube.com/watch?v=vcVttSm3e8k" target="_blank" rel="noopener noreferrer">
               Retour sur 3 années à developper des bots ! (video)
             </a>{' '}
             - DevFest du bout du monde (Brest, Fr) - 2019'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://www.youtube.com/watch?v=CAFny-2QXbA" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.youtube.com/watch?v=CAFny-2QXbA" target="_blank" rel="noopener noreferrer">
               How To Innovate Like A Startup When You Are A Multinational (video)
             </a>{' '}
             - Brighton Devops, Test, Dev Meetup - 2018'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://marketforce.wavecast.io/technova/readying-the-voice-technology-revolution" target="_blank">
+            &nbsp; &nbsp; '<a href="https://marketforce.wavecast.io/technova/readying-the-voice-technology-revolution" target="_blank" rel="noopener noreferrer">
               The Voice Technology Revolution (video)
             </a>{' '}
             - Technova's live webinar - 2018'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://voice2018.webnicol.fr" target="_blank">
+            &nbsp; &nbsp; '<a href="https://voice2018.webnicol.fr" target="_blank" rel="noopener noreferrer">
               VUI Introduction
             </a>{' '}
             - Brest.js (Brest, Fr) - 2018'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://bot2018.webnicol.fr" target="_blank">
+            &nbsp; &nbsp; '<a href="https://bot2018.webnicol.fr" target="_blank" rel="noopener noreferrer">
               Chatbots 101
             </a>{' '}
             - Brighton Web Dev Meetup - 2018'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://www.meetup.com/London-Alexa-Devs/events/239181169/" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.meetup.com/London-Alexa-Devs/events/239181169/" target="_blank" rel="noopener noreferrer">
               Get The Energy Talking
             </a>{' '}
             London Alexa Devs Meetup - 2017'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://riseofthebots.webnicol.fr/" target="_blank">
+            &nbsp; &nbsp; '<a href="https://riseofthebots.webnicol.fr/" target="_blank" rel="noopener noreferrer">
               The Rise of The Bots
             </a>{' '}
             - Async (Brighton) - 2017'
@@ -154,29 +154,29 @@ class App extends Component {
           <span className="n">&nbsp; stuff:</span> {'['}
           <br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://github.com/alexandrenicol/lemarchanddeglace" target="_blank">
+            &nbsp; &nbsp; '<a href="https://github.com/alexandrenicol/lemarchanddeglace" target="_blank" rel="noopener noreferrer">
               Le Marchand De Glace
             </a>'
           </span>,<br />
           <span className="l">&nbsp; &nbsp; 'Parachute (soon)'</span>,<br />
           <span className="l">&nbsp; &nbsp; 'Go AWS Lambda Router (soon)</span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://alexandrenicol.github.io/aws-lambda-router-wn/" target="_blank">
+            &nbsp; &nbsp; '<a href="https://alexandrenicol.github.io/aws-lambda-router-wn/" target="_blank" rel="noopener noreferrer">
               JavaScript AWS Lambda Router
             </a>'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://www.amazon.co.uk/Alexandre-Nicol-Seagulls-Buses/dp/B01N2UF9BK" target="_blank">
+            &nbsp; &nbsp; '<a href="https://www.amazon.co.uk/Alexandre-Nicol-Seagulls-Buses/dp/B01N2UF9BK" target="_blank" rel="noopener noreferrer">
               Brighton &amp; Hove buses live times on Alexa Skill
             </a>'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://assistant.google.com/u/2/services/a/uid/0000003daed71c62?hl=en&source=web" target="_blank">
+            &nbsp; &nbsp; '<a href="https://assistant.google.com/u/2/services/a/uid/0000003daed71c62?hl=en&source=web" target="_blank" rel="noopener noreferrer">
               2018 Resolutions on Google actions
             </a>'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://github.com/alexandrenicol/requemise" target="_blank">
+            &nbsp; &nbsp; '<a href="https://github.com/alexandrenicol/requemise" target="_blank" rel="noopener noreferrer">
               Requemise
             </a>'
           </span>,<br />
