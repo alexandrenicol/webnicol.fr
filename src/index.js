@@ -43,6 +43,7 @@ const me = {
     'Dites bonjour aux bots ! - 2016 (French)',
   ],
   talks: [
+    'Building an in-house R&D to Push Boundaries for Voice Systems - 2nd World Voice Innovation Webinar - 2020',
     'TechNova: Voice - 2019',
     'Retour sur 3 années à developper des bots ! (video) - DevFest du bout du monde (Brest, Fr) - 2019',
     'How To Innovate Like A Startup When You Are A Multinational (video) - Brighton Devops, Test, Dev Meetup - 2018',
@@ -58,7 +59,6 @@ const me = {
     'Go AWS Lambda Router (soon)',
     'JavaScript AWS Lambda Router',
     'Brighton & Hove buses live times on Alexa Skill',
-    '2018 Resolutions on Google actions',
     'Requemise',
   ],
 };

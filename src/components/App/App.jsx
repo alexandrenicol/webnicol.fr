@@ -100,6 +100,9 @@ class App extends Component {
           <span className="n">&nbsp; talks:</span> {'['}
           <br />
           <span className="l">
+            &nbsp; &nbsp; 'Building an in-house R&D to Push Boundaries for Voice Systems - 2nd World Voice Innovation Webinar - 2020'
+          </span>,<br />
+          <span className="l">
             &nbsp; &nbsp; '<a href="https://bwdm2019.webnicol.fr/" target="_blank" rel="noopener noreferrer">
             Building Apps for Alexa
             </a>{' '}
