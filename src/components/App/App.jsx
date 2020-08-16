@@ -171,11 +171,6 @@ class App extends Component {
             </a>'
           </span>,<br />
           <span className="l">
-            &nbsp; &nbsp; '<a href="https://assistant.google.com/u/2/services/a/uid/0000003daed71c62?hl=en&source=web" target="_blank" rel="noopener noreferrer">
-              2018 Resolutions on Google actions
-            </a>'
-          </span>,<br />
-          <span className="l">
             &nbsp; &nbsp; '<a href="https://github.com/alexandrenicol/requemise" target="_blank" rel="noopener noreferrer">
               Requemise
             </a>'
