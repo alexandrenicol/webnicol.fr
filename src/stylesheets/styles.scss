@@ -1,48 +1,51 @@
+// Add your styles here
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
 }
 
-
-
 .highlight {
-  background-color: #1E1E1E;
-  color: #ffffff;
+  background-color: #1e1e1e;
+  color: #fff;
   text-align: left;
-  font-family: Menlo,
-  Monaco,
-  "Courier New",
-  monospace;
+  font-family: Menlo, Monaco, 'Courier New', monospace;
   font-weight: normal;
   font-size: 12px;
   line-height: 18px;
-  letter-spacing: 0px;
+  letter-spacing: 0;
   margin: 0;
   min-height: 100vh;
 
   a {
     color: #ce9178;
   }
+
   .k {
-    color: #569cd6
+    color: #569cd6;
   }
+
   .k2 {
-    color: #4EC9B0
+    color: #4ec9b0;
   }
+
   .l {
-    color: #ce9178
+    color: #ce9178;
   }
+
   .n {
-    color: #9CDCFE
+    color: #9cdcfe;
   }
+
   .o {
-    color: #ffffff
+    color: #fff;
   }
+
   .mi {
-    color: #b5cea8
+    color: #b5cea8;
   }
+
   .f {
-    color: #DCDCAA
+    color: #dcdcaa;
   }
 }
